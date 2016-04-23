@@ -1,0 +1,15 @@
+C:\Stardew Modding\SMAPI Dev\FarmExpansionSMAPI\FarmExpansionSMAPI\bin\Debug\FarmExpansionSMAPI.dll
+C:\Stardew Modding\SMAPI Dev\FarmExpansionSMAPI\FarmExpansionSMAPI\bin\Debug\FarmExpansionSMAPI.pdb
+C:\Stardew Modding\SMAPI Dev\FarmExpansionSMAPI\FarmExpansionSMAPI\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Stardew Modding\SMAPI Dev\FarmExpansionSMAPI\FarmExpansionSMAPI\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Stardew Modding\SMAPI Dev\FarmExpansionSMAPI\FarmExpansionSMAPI\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Stardew Modding\SMAPI Dev\FarmExpansionSMAPI\FarmExpansionSMAPI\bin\Debug\Stardew Valley.exe
+C:\Stardew Modding\SMAPI Dev\FarmExpansionSMAPI\FarmExpansionSMAPI\bin\Debug\StardewModdingAPI.exe
+C:\Stardew Modding\SMAPI Dev\FarmExpansionSMAPI\FarmExpansionSMAPI\bin\Debug\xTile.dll
+C:\Stardew Modding\SMAPI Dev\FarmExpansionSMAPI\FarmExpansionSMAPI\bin\Debug\Lidgren.Network.dll
+C:\Stardew Modding\SMAPI Dev\FarmExpansionSMAPI\FarmExpansionSMAPI\bin\Debug\Steamworks.NET.dll
+C:\Stardew Modding\SMAPI Dev\FarmExpansionSMAPI\FarmExpansionSMAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Stardew Modding\SMAPI Dev\FarmExpansionSMAPI\FarmExpansionSMAPI\obj\Debug\FarmExpansionSMAPI.dll
+C:\Stardew Modding\SMAPI Dev\FarmExpansionSMAPI\FarmExpansionSMAPI\obj\Debug\FarmExpansionSMAPI.pdb
+C:\Stardew Modding\SMAPI Dev\FarmExpansionSMAPI\FarmExpansionSMAPI\bin\Debug\SerializerUtils.dll
+C:\Stardew Modding\SMAPI Dev\FarmExpansionSMAPI\FarmExpansionSMAPI\bin\Debug\Microsoft.Xna.Framework.Xact.dll

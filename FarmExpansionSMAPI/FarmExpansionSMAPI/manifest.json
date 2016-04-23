@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Farm Expansion Mod",
+  "Authour": "Advize",
+  "Version": {
+    "MajorVersion": 2,
+    "MinorVersion": 0,
+    "PatchVersion": 5,
+    "Build": ""
+  },
+  "Description": "Expands the farm by adding a new farmable location accessible from the west end of your farm.",
+  "UniqueID": "AdvizeFarmExpansionMod-2-0-5",
+  "PerSaveConfigs": false,
+  "EntryDll": "FarmExpansionSMAPI.dll"
+}
