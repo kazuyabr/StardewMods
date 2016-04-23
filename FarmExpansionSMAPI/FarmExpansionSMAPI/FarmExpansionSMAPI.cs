@@ -145,8 +145,6 @@ namespace FarmExpansionSMAPI
                         {
                             if (building.indoors.GetType() == typeof(AnimalHouse))
                             {
-                                //((AnimalHouse)building.indoors).animals = ((AnimalHouse)building.indoors).animals;
-                                //((AnimalHouse)building.indoors).animalsThatLiveHere = ((AnimalHouse)building.indoors).animalsThatLiveHere;
                                 foreach (KeyValuePair<long, FarmAnimal> animalsInBuilding in ((AnimalHouse)building.indoors).animals)
                                 {
                                     FarmAnimal animal = animalsInBuilding.Value;
